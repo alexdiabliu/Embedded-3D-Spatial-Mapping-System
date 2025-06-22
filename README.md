@@ -7,3 +7,7 @@ User interaction is handled through onboard GPIO pushbuttons to start and stop s
 
 ![unnamed](https://github.com/user-attachments/assets/813b1534-3c26-4543-aa22-f09c54c6c76c)
 
+
+<img width="298" alt="image" src="https://github.com/user-attachments/assets/784811e8-ff7d-49a0-9747-1e1af95f54e4" />
+
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/7cf6bbad-9e9c-4a3a-93b1-7b13acd2a4ad" />
